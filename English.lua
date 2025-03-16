@@ -181,6 +181,11 @@ local Tabs = {
         end
     })
 
+    Tabs.Games:AddParagraph({
+        Title = "----- Dead Rails -----",
+        Content = ""
+    })
+
     Tabs.Games:AddButton({
         Title = "Dead Rails Hub (No Key)",
         Description = "",
